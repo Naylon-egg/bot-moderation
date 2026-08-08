@@ -104,6 +104,6 @@ criar um serviço systemd.
 
 
 ## Notas
-- `moderation.db` guarda advertências e configurações por servidor — é só um
+- `moderation.db` guarda advertências e configurações por servidor é só um
   arquivo, vale copiar de vez em quando como backup.
 - Moderadores (quem tem permissão `Manage Messages`) não são afetados pelo AutoMod.
