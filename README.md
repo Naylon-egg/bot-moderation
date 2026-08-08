@@ -100,8 +100,8 @@ as tabelas necessárias.
 
 Para o bot continuar rodando depois de fechar o terminal (e reiniciar sozinho
 se cair, ou quando a máquina reiniciar), o caminho mais simples no Linux é
-criar um serviço systemd. Se quiser, posso te ajudar a montar esse arquivo
-de serviço depois.
+criar um serviço systemd. 
+
 
 ## Notas
 - `moderation.db` guarda advertências e configurações por servidor — é só um
